@@ -1,6 +1,7 @@
+# Author: Dominic Studer
 # Mein Bash Script
 
-echo "...Skript startet..."
+echo "...Skript gestartet..."
 
 for FILE in *txt
 
